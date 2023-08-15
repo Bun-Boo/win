@@ -1,0 +1,19 @@
+Software licensing service version: 10.0.18362.418
+
+Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+Activation ID: 2de67392-b7a7-462a-b1ca-108dd189f588
+Application ID: 55c92734-d682-4d71-983e-d6ec3f16059f
+Extended PID: 03612-03311-000-000001-03-1033-18363.0000-3392022
+Product Key Channel: Volume:GVLK
+Installation ID: 067891478404617429296812153438354139520041169987605995247184721
+Partial Product Key: T83GX
+License Status: Notification
+Notification Reason: 0xC004F00F.
+Remaining Windows rearm count: 1001
+Remaining SKU rearm count: 1001
+Trusted time: 9/8/2023 6:06:06 PM
+Configured Activation Type: All
+Please use slmgr.vbs /ato to activate and update KMS client information in order to update values.
+
+
